@@ -7,11 +7,18 @@
 
 <h1 align="center">Near-Field color maps</h1>
 
-  <p align="center">
+  <p>
     This project provides near-field measured data of four commercial microwave lens horn antennas (from X- to Ka-band). It also provides a jupiter notebook script to create 2D color map of the measured data.
     <br />
     <br />
-    <b>DISCLAIMER:</b> This project is part of an academic research about how to use an out-of-date robotic arm to measure the near-field of lens horn antennas. DOI number shall be updated as soon as publication become available.
+    <b>DISCLAIMER:</b> This project is part of an academic research study on using an out-of-date robotic arm to measure the near-field of lens horn antennas.
+
+If you use any part of the code or data provided in this repository, please cite the following manuscript:
+
+> Citation:<br />
+<a href="https://jatm.com.br/jatm/article/view/1403/1068">Use of an Outdated Robotic Arm for Near-Field Measurements of Lens Horn Antennas</a> <br />
+Journal of Aerospace Technology and Management, Vol. 17 (2025). <br />
+DOI: 10.1590/jatm.v17.1403
     <br />
     <br />
     <a href="https://github.com/afnboss/nf-lens-horn-antenna"><strong>Explore the docs »</strong></a>
